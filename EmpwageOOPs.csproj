@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>EmployeeWageCompute058.EmployeeWageCompute</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -45,6 +48,12 @@
   <ItemGroup>
     <Compile Include="Empwage.cs" />
     <Compile Include="Empwage1.cs" />
+    <Compile Include="Empwage2.cs" />
+    <Compile Include="Empwage3.cs" />
+    <Compile Include="Empwage4.cs" />
+    <Compile Include="Empwage5.cs" />
+    <Compile Include="Empwage6.cs" />
+    <Compile Include="Empwage7.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

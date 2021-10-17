@@ -54,6 +54,8 @@
     <Compile Include="Empwage5.cs" />
     <Compile Include="Empwage6.cs" />
     <Compile Include="Empwage7.cs" />
+    <Compile Include="Empwage8.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

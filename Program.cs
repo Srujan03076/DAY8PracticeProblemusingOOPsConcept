@@ -17,7 +17,10 @@ namespace HelloWorld
             //UC5_WageForMonth.WageForMonth();
             //UC6_WageTillNumOfWorkingDays.WageTillNumOfWorkingDays();
             //UC7_EmpWageUsingClassMethod.EmpWageUsingClassMethod();
+            //UC8_EmpWageForMultipleCompanies.computeEmpWage("DMart", 20, 2, 10);
+            //UC8_EmpWageForMultipleCompanies.computeEmpWage("Reliance", 10, 4, 20
         }
     }
-
 }
+    
+
